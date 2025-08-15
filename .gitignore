@@ -2,7 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-commands.txt
 
 ### Eclipse ###
 .apt_generated
