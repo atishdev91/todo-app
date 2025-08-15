@@ -1,0 +1,14 @@
+   1 git init
+   2 git status
+   3 git add .
+   4 git status
+   5 git commit -m "Initial commit - basic app"
+   6 git status
+   7 git remote -v
+   8 git remote add origin https://github.com/atishdev91/todo-a...
+   9 git remote -v
+  15 git restore .idea/vcs.xml
+  16 git status
+  17 git push origin master
+  18 history
+
